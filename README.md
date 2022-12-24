@@ -1,7 +1,8 @@
 # projuto-botao-loard
 
-Funcao animation do css
+Função animation do css
 
 # Link do projeto:
 
+https://devosvaldo2020.github.io/projeto-animation-efeitoLouco/
 
